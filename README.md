@@ -2,8 +2,6 @@
 
 ## Presentation
 
-<p align="center"><img src="nn.png"></p>
-
 >Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks.
 
 ## Dependencies
