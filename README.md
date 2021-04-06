@@ -2,7 +2,7 @@
 
 ## Presentation
 
->Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks.
+>Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks. Starting from Sentdex's tutorial.
 
 ## Dependencies
 
@@ -31,4 +31,10 @@
 ## Datasets
 
 - Datasets are not in the github repository, you need to download it (Links in notebooks).
+
+## Links
+
+- https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&ab_channel=sentdex
+- https://en.wikipedia.org/wiki/Recurrent_neural_network
+- https://en.wikipedia.org/wiki/Long_short-term_memory
 
