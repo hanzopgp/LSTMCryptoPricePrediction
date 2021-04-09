@@ -2,7 +2,7 @@
 
 ## Presentation
 
->Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks. Starting from Sentdex's tutorial.
+>Learning about tensorflow, jupyter notebook, numpy, matplotlib, sklearn and other libraries to quickly build and test neural networks. Starting from Sentdex's tutorial. Last introduction project before working on LSTM & Transformers to predict cryptocurrencies price. (for my intership at Deepn as AI dev)
 
 ## Dependencies
 
